@@ -1,0 +1,3 @@
+# Sistema de Login em Python:snake: com SQLite3 ![](https://img.shields.io/static/v1?label=Python_Sys_Login&message=V1.0&color=red) <hr>
+Sistema desenvolvido em Python, `baseado em tutorial`, possuindo tela de  Login, para ascesso, e tela de Registro, para cadastro de novos usuários.
+Contando com verificação de acesso de usuário cadastrado e controle de cadastro de novos usuário, evitando redundância de dados.
